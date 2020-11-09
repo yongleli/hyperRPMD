@@ -25,3 +25,5 @@ Incarnations of RPMD-related methods.
 |  system.f90 |
 |  math.f90 |
 |  makefile |
+
+* \_main.f90: Using 3D BCOCB for direct replace. The thermostat is Langevin dynamics.
